@@ -1,0 +1,44 @@
+body{
+    text-align:center;
+}
+#div{
+    padding:50px;
+    border:2px solid black;
+    height: 70px;
+    width:70px;
+    margin-left:43.5%;
+    font-weight:bold;
+    background-color:aqua;
+    font-size:25px;
+
+    
+}
+#increase{
+    font-size: 25px;
+
+}
+#increase:hover{
+    background-color:green;
+    color:white;
+    font-size:27px;
+
+}
+#decrease:hover{
+    background-color:green;
+    color:white;
+    font-size:27px;
+
+}
+#reset{
+    font-size:25px;
+}
+#decrease{
+    font-size:25px;
+    
+}
+#reset:hover{
+    background-color:red;
+    color:black;
+    font-size:27px;
+
+}
